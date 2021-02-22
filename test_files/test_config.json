@@ -1,0 +1,12 @@
+[
+  {
+    "command_hash": "this is a string",
+    "command_path": "/this/is/the/paht",
+    "args": [ "arg1", "arg2", "arg3"]
+  },
+  {
+    "command_hash": "second string",
+    "command_path": "secondPath",
+    "args": [ "arg1", "arg2", "arg3"]
+  }
+]
